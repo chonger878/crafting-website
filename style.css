@@ -1,0 +1,14 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.container{
+    margin: 0px auto;
+    width: 1000px;
+}
+.nav-bar {
+    background-color: blueviolet;
+    display: flex;
+    align-items: center;
+}
