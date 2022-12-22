@@ -1,14 +1,29 @@
 *{
     margin: 0px;
     padding: 0px;
+    font-family: 'Dosis', sans-serif;
 }
 
 .container{
     margin: 0px auto;
     width: 1000px;
 }
+
+.nav-title, .nav-bar, .nav-links {
+    display: flex;
+    align-items:center;
+    padding: 5px 20px;
+}
+
+.nav-title {
+    color:indigo
+}
 .nav-bar {
     background-color: blueviolet;
-    display: flex;
-    align-items: center;
 }
+
+.nav-links {
+    margin-left:auto;
+}
+
+
