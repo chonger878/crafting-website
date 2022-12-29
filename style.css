@@ -73,12 +73,18 @@ body{
 }
 
 .box {
-    width:300px;
-    display:flex;
+    width:400px;
+    display:inline-flex;
+    align-items: center;
+    border:1px solid mediumvioletred;
 }
 
 .col-3 {
     flex:3;
+}
+
+#nye-toast {
+    height:100px;
 }
 
 .magenta {
