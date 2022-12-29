@@ -81,14 +81,22 @@ body{
 
 .col-3 {
     flex:3;
+    margin:5px;
 }
 
 #nye-toast {
-    height:100px;
+    height:200px;
 }
 
 .magenta {
     border: 1px solid magenta;
+}
+
+.like-btn {
+    padding:5px 15px;
+    font-size:16px;
+    background-color: orange;
+    box-shadow: 5px 2px orchid;
 }
 
 
