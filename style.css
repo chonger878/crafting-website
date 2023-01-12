@@ -99,6 +99,17 @@ body{
     box-shadow: 5px 2px orchid;
 }
 
+.form-container {
+    background-color: orange;
+    display: block;
+    align-items: center;
+    padding:50px;
+}
+
+.thanks, form {
+    padding:25px;
+}
+
 
 
 
