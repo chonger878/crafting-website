@@ -9,4 +9,4 @@ Given that this is a static page, there's not too much dependencies, other than 
 If you click on the big subscribe button, you will be taken to a page to enter your contact information...that is still a work in progress so the information won't be going anywhere.  The only thing that will happen is that you will get an alert that says "Great! Thanks for subscribing."
 
 **Build/Deploy instructions**
-I would simply drag the index.html file to the browser of my choice.  Another way I have done it, if you are on visual studio code, just right-click anywhere on the index.html file and choose "Open in default browser."
+Simply click on this link for the webpage: https://chimerical-pasca-dd5454.netlify.app/
